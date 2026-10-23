@@ -1,0 +1,67 @@
+- repo: aur
+  srcname: haxor-news
+  binname: haxor-news
+  visiblename: haxor-news
+  version: 0.4.2
+  origversion: 0.4.2-1
+  status: newest
+  summary: A Hacker News command line interface
+  maintainers:
+    - xenopathic@aur
+  licenses:
+    - Apache
+- repo: nix_stable_24_05
+  srcname: haxor-news
+  visiblename: haxor-news-unstable
+  version: "2020-10-20"
+  origversion: null
+  status: untrusted
+  summary: Browse Hacker News like a haxor
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: haxor-news
+  visiblename: haxor-news-unstable
+  version: "2020-10-20"
+  origversion: null
+  status: untrusted
+  summary: Browse Hacker News like a haxor
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: haxor-news
+  visiblename: haxor-news-unstable
+  version: "2022-04-22"
+  origversion: null
+  status: untrusted
+  summary: Browse Hacker News like a haxor
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: haxor-news
+  visiblename: haxor-news-unstable
+  version: "2022-04-22"
+  origversion: null
+  status: untrusted
+  summary: Browse Hacker News like a haxor
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: haxor-news
+  visiblename: haxor-news
+  version: unstable-2022-04-22
+  origversion: null
+  status: outdated
+  summary: Browse Hacker News like a haxor
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
